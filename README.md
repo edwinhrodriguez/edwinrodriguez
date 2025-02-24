@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Edwin Rodriguez Valverde
+🔹 **Data & Analytics Professional | AI & NLP | Data Science | Power BI | Python | SQL | Data Governance**
 
-<!--
-**edwinrodriguezvalverde/edwinrodriguezvalverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 15+ years of experience in **Data Analytics, AI/ML, Business Intelligence, and Data Governance**  
+💡 Passionate about **leveraging data for strategic decision-making**  
+📊 Expert in **Power BI, Python, SQL, Data Science, and NLP**  
+📍 Based in Washington, DC | Open to Remote Opportunities  
 
-Here are some ideas to get you started:
+## 🔥 Skills & Technologies
+- **Programming:** Python, SQL, DAX
+- **Data Science & AI:** Machine Learning, NLP, LLMs, AI Models
+- **Data Visualization:** Power BI, Tableau
+- **Cloud & Data Management:** Azure, AWS, SAP Data Services
+- **Data Governance & Privacy:** Informatica, OneTrust, Metadata Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Featured Projects
+
+
+
+💬 _Check out my projects below! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/edwinrodriguezvalverde/)_
+
