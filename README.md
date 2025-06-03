@@ -25,5 +25,5 @@
 
 
 
-💬 _Check out my projects below! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/edwinrodriguezvalverde/)_
+💬 _Check out my projects below! Feel free to connect on [LinkedIn](https://www.linkedin.com/in/edwinhrodriguez/)_
 
