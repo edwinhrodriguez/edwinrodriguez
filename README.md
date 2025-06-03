@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edwin Rodriguez Valverde
+# 👋 Hi, I'm Edwin Rodriguez
 🔹 **Data & Analytics Professional | AI & NLP | Data Science | Power BI | Python | SQL | Data Governance**
 
 🚀 15+ years of experience in **Data Analytics, AI/ML, Business Intelligence, and Data Governance**  
